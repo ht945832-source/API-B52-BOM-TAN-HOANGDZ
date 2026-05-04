@@ -1,0 +1,16 @@
+{
+  "name": "hoangdz-ultimate-ai",
+  "version": "5.0.0",
+  "description": "Hệ thống soi cầu AI chuẩn xác @tranhoang2286",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "fastify": "^4.26.0",
+    "@fastify/cors": "^9.0.1",
+    "node-fetch": "^3.3.2",
+    "ws": "^8.16.0"
+  }
+}
